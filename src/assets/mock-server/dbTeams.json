@@ -1,0 +1,52 @@
+{
+  "teams": [
+    {
+      "id": 1,
+      "bgPic": "/img/league.jpg"
+    },
+    {
+      "id": 2,
+      "bgPic": "/img/CSGO.jpg"
+    },
+    {
+      "id": 3,
+      "bgPic": "/img/Apex.jpg"
+    },
+    {
+      "id": 4,
+      "bgPic": "/img/NLE.jpg"
+    },
+    {
+      "id": 5,
+      "bgPic": "/img/Brawlhalla.jpg"
+    },
+    {
+      "id": 6,
+      "bgPic": "/img/COD.jpg"
+    },
+    {
+      "id": 7,
+      "bgPic": "/img/Fortnite.jpg"
+    },
+    {
+      "id": 8,
+      "bgPic": "/img/Hearthstone.jpg"
+    },
+    {
+      "id": 9,
+      "bgPic": "/img/Hearts.jpg"
+    },
+    {
+      "id": 10,
+      "bgPic": "/img/Legends.jpg"
+    },
+    {
+      "id": 11,
+      "bgPic": "/img/Overwatch.jpg"
+    },
+    {
+      "id": 12,
+      "bgPic": "/img/PUBG.jpg"
+    }
+  ]
+}
